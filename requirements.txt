@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+Pillow
+requests
+pyrebase4
+google-cloud-firestore
+openai
